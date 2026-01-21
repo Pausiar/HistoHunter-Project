@@ -609,8 +609,3 @@ public class ScoreCalculator {
 Este proyecto es de uso educativo. Siéntete libre de usarlo y modificarlo para tu clase.
 
 ---
-
-<div align="center">
-  <p>Hecho con ❤️ para aprender desarrollo Android</p>
-  <p><strong>¡Buena suerte con el proyecto!</strong> 🎮🗺️📅</p>
-</div>
