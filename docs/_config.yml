@@ -1,0 +1,14 @@
+title: HistoHunter - Guía del Proyecto
+description: Un juego educativo estilo GeoGuessr para Android donde adivinas cuándo y dónde ocurrieron eventos históricos
+theme: jekyll-theme-cayman
+show_downloads: true
+google_analytics:
+baseurl: /HistoHunter-Project
+
+# Configuración adicional
+markdown: kramdown
+highlighter: rouge
+
+# Navegación
+header_pages:
+  - index.md
